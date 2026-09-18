@@ -1,7 +1,7 @@
 <h1 align="center">Password Generator App</h1>
 
 <p align="center">
-  <img src="./assets/password-generator.svg" alt="Password Generator" width="700">
+  <img src="./assets/password-generator.svg" alt="Password Generator" width="400">
 </p>
 
 ## About
